@@ -1,0 +1,110 @@
+[INFO ] 2022-07-30 14:52:55.447 [main] Log4j - Edge Browser Started
+[INFO ] 2022-07-30 14:53:00.503 [main] Log4j - Browser Launched
+[INFO ] 2022-07-30 14:53:00.505 [main] Log4j - Tide URL Fetched
+[INFO ] 2022-07-30 14:53:02.692 [main] Log4j - Hoverd on Shop Products feature
+[INFO ] 2022-07-30 14:53:02.976 [main] Log4j - Clicked on Deep Clean Option
+[INFO ] 2022-07-30 14:53:05.404 [main] Log4j - Selected A-Z alphabetic Filture
+[INFO ] 2022-07-30 14:53:05.776 [main] Log4j - Validation Pass
+[INFO ] 2022-07-30 14:53:05.833 [main] Log4j - Validation Pass
+[INFO ] 2022-07-30 14:53:05.835 [main] Log4j - Tide Webpage closing
+[INFO ] 2022-07-30 14:53:05.836 [main] Log4j - Pushing values to the ExtentReports
+[INFO ] 2022-07-30 14:53:05.836 [main] Log4j - Closing Drivers
+[INFO ] 2022-07-30 14:53:09.495 [main] Log4j - Edge Browser Started
+[INFO ] 2022-07-30 14:53:17.985 [main] Log4j - Browser Launched
+[INFO ] 2022-07-30 14:53:17.985 [main] Log4j - Tide URL Fetched
+[INFO ] 2022-07-30 14:53:19.943 [main] Log4j - Hoverd on Our Commitments feature
+[INFO ] 2022-07-30 14:53:20.204 [main] Log4j - Clicked on Tide In Space Option
+[INFO ] 2022-07-30 14:53:22.636 [main] Log4j - Took Screenshot
+[INFO ] 2022-07-30 14:53:22.669 [main] Log4j - Validation Pass
+[INFO ] 2022-07-30 14:53:22.669 [main] Log4j - Tide Webpage closing
+[INFO ] 2022-07-30 14:53:22.669 [main] Log4j - Pushing values to the ExtentReports
+[INFO ] 2022-07-30 14:53:22.669 [main] Log4j - Closing Drivers
+[INFO ] 2022-07-30 14:53:25.794 [main] Log4j - Edge Browser Started
+[INFO ] 2022-07-30 14:53:34.317 [main] Log4j - Browser Launched
+[INFO ] 2022-07-30 14:53:34.317 [main] Log4j - Tide URL Fetched
+[INFO ] 2022-07-30 14:53:36.528 [main] Log4j - Clicked on country name
+[INFO ] 2022-07-30 14:53:47.580 [main] Log4j - Selected new Region
+[INFO ] 2022-07-30 14:53:47.999 [main] Log4j - Took Screenshot
+[INFO ] 2022-07-30 14:53:48.037 [main] Log4j - Validation Pass
+[INFO ] 2022-07-30 14:53:48.038 [main] Log4j - Tide Webpage closing
+[INFO ] 2022-07-30 14:53:48.038 [main] Log4j - Pushing values to the ExtentReports
+[INFO ] 2022-07-30 14:53:48.038 [main] Log4j - Closing Drivers
+[INFO ] 2022-07-30 14:53:51.358 [main] Log4j - Edge Browser Started
+[INFO ] 2022-07-30 14:53:56.875 [main] Log4j - Browser Launched
+[INFO ] 2022-07-30 14:53:56.875 [main] Log4j - Tide URL Fetched
+[INFO ] 2022-07-30 14:53:58.875 [main] Log4j - Hoverd on How TO Wash CLothes
+[INFO ] 2022-07-30 14:53:59.135 [main] Log4j - Clicked on Laundry option
+[INFO ] 2022-07-30 14:54:01.947 [main] Log4j - Took Screenshot
+[INFO ] 2022-07-30 14:54:01.980 [main] Log4j - Validation Pass
+[INFO ] 2022-07-30 14:54:01.981 [main] Log4j - Tide Webpage closing
+[INFO ] 2022-07-30 14:54:01.981 [main] Log4j - Pushing values to the ExtentReports
+[INFO ] 2022-07-30 14:54:01.981 [main] Log4j - Closing Drivers
+[INFO ] 2022-07-30 14:54:05.194 [main] Log4j - Edge Browser Started
+[INFO ] 2022-07-30 14:54:10.277 [main] Log4j - Browser Launched
+[INFO ] 2022-07-30 14:54:10.278 [main] Log4j - Tide URL Fetched
+[INFO ] 2022-07-30 14:54:12.806 [main] Log4j - Hoverd on Shop Products
+[INFO ] 2022-07-30 14:54:13.068 [main] Log4j - Clicked on Liquids
+[INFO ] 2022-07-30 14:54:17.204 [main] Log4j - Clicked on Sensitive option
+[INFO ] 2022-07-30 14:54:17.391 [main] Log4j - Took Screenshot
+[INFO ] 2022-07-30 14:54:17.417 [main] Log4j - Validation Pass
+[INFO ] 2022-07-30 14:54:17.417 [main] Log4j - Tide Webpage closing
+[INFO ] 2022-07-30 14:54:17.418 [main] Log4j - Pushing values to the ExtentReports
+[INFO ] 2022-07-30 14:54:17.418 [main] Log4j - Closing Drivers
+[INFO ] 2022-07-30 14:54:20.585 [main] Log4j - Edge Browser Started
+[INFO ] 2022-07-30 14:54:28.738 [main] Log4j - Browser Launched
+[INFO ] 2022-07-30 14:54:28.738 [main] Log4j - Tide URL Fetched
+[INFO ] 2022-07-30 14:54:31.450 [main] Log4j - Clicked on Live Chat
+[INFO ] 2022-07-30 14:54:32.593 [main] Log4j - Navigated Back
+[INFO ] 2022-07-30 14:54:32.913 [main] Log4j - Took Screenshot
+[INFO ] 2022-07-30 14:54:32.939 [main] Log4j - Validation Pass
+[INFO ] 2022-07-30 14:54:32.939 [main] Log4j - Tide Webpage closing
+[INFO ] 2022-07-30 14:54:32.940 [main] Log4j - Pushing values to the ExtentReports
+[INFO ] 2022-07-30 14:54:32.940 [main] Log4j - Closing Drivers
+[INFO ] 2022-07-30 14:54:36.126 [main] Log4j - Edge Browser Started
+[INFO ] 2022-07-30 14:54:44.486 [main] Log4j - Browser Launched
+[INFO ] 2022-07-30 14:54:44.487 [main] Log4j - Tide URL Fetched
+[INFO ] 2022-07-30 14:54:46.945 [main] Log4j - Creating New Tide User Account
+[INFO ] 2022-07-30 14:54:51.353 [main] Log4j - Clicked on Register
+[INFO ] 2022-07-30 14:54:51.353 [main] Log4j - Clicked on Signup button
+[INFO ] 2022-07-30 14:54:52.623 [main] Log4j - Enterd User Name
+[INFO ] 2022-07-30 14:54:52.803 [main] Log4j - Enterd Email
+[INFO ] 2022-07-30 14:54:53.296 [main] Log4j - Enterd Password
+[INFO ] 2022-07-30 14:54:53.340 [main] Log4j - Clicked on Create Account
+[INFO ] 2022-07-30 14:54:55.850 [main] Log4j - Took Screenshot
+[INFO ] 2022-07-30 14:54:55.851 [main] Log4j - Validation Pass
+[INFO ] 2022-07-30 14:54:55.851 [main] Log4j - Tide Webpage closing
+[INFO ] 2022-07-30 14:54:55.851 [main] Log4j - Pushing values to the ExtentReports
+[INFO ] 2022-07-30 14:54:55.851 [main] Log4j - Closing Drivers
+[INFO ] 2022-07-30 14:54:59.111 [main] Log4j - Edge Browser Started
+[INFO ] 2022-07-30 14:55:04.772 [main] Log4j - Browser Launched
+[INFO ] 2022-07-30 14:55:04.772 [main] Log4j - Tide URL Fetched
+[INFO ] 2022-07-30 14:55:09.648 [main] Log4j - Enter Powder in search box
+[INFO ] 2022-07-30 14:55:09.718 [main] Log4j - Click on Products
+[INFO ] 2022-07-30 14:55:13.505 [main] Log4j - Click on Products
+[INFO ] 2022-07-30 14:55:13.714 [main] Log4j - Took Screenshot
+[INFO ] 2022-07-30 14:55:15.652 [main] Log4j - Closed the Tab
+[INFO ] 2022-07-30 14:55:15.692 [main] Log4j - Validation Pass
+[INFO ] 2022-07-30 14:55:15.694 [main] Log4j - Tide Webpage closing
+[INFO ] 2022-07-30 14:55:15.694 [main] Log4j - Pushing values to the ExtentReports
+[INFO ] 2022-07-30 14:55:15.695 [main] Log4j - Closing Drivers
+[INFO ] 2022-07-30 14:55:18.646 [main] Log4j - Edge Browser Started
+[INFO ] 2022-07-30 14:55:24.173 [main] Log4j - Browser Launched
+[INFO ] 2022-07-30 14:55:24.173 [main] Log4j - Tide URL Fetched
+[INFO ] 2022-07-30 14:55:27.025 [main] Log4j - Hoverd on Shop Products
+[INFO ] 2022-07-30 14:55:27.275 [main] Log4j - Clicked on Pacs Products
+[INFO ] 2022-07-30 14:55:31.092 [main] Log4j - Clicked on Retailers
+[INFO ] 2022-07-30 14:55:31.447 [main] Log4j - Took Screnshot
+[INFO ] 2022-07-30 14:55:33.267 [main] Log4j - Validation Pass
+[INFO ] 2022-07-30 14:55:33.267 [main] Log4j - Tide Webpage closing
+[INFO ] 2022-07-30 14:55:33.267 [main] Log4j - Pushing values to the ExtentReports
+[INFO ] 2022-07-30 14:55:33.267 [main] Log4j - Closing Drivers
+[INFO ] 2022-07-30 14:55:36.467 [main] Log4j - Edge Browser Started
+[INFO ] 2022-07-30 14:55:41.564 [main] Log4j - Browser Launched
+[INFO ] 2022-07-30 14:55:41.564 [main] Log4j - Tide URL Fetched
+[INFO ] 2022-07-30 14:55:44.229 [main] Log4j - Hoverd on Shop Products
+[INFO ] 2022-07-30 14:55:44.494 [main] Log4j - Clicked on Stain Removal option
+[INFO ] 2022-07-30 14:55:45.070 [main] Log4j - Took Screenshot
+[INFO ] 2022-07-30 14:55:45.126 [main] Log4j - Validation Pass
+[INFO ] 2022-07-30 14:55:45.127 [main] Log4j - Tide Webpage closing
+[INFO ] 2022-07-30 14:55:45.127 [main] Log4j - Pushing values to the ExtentReports
+[INFO ] 2022-07-30 14:55:45.127 [main] Log4j - Closing Drivers
